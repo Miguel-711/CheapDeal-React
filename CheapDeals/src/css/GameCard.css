@@ -54,7 +54,7 @@
   padding: 1rem;
 }
 
-.game-card:hover .movie-overlay {
+.game-card:hover .game-overlay {
   opacity: 1;
 }
 
